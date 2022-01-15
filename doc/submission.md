@@ -928,7 +928,7 @@ making this approach a conservative measure of associations across data types.
 Amplicon sequences from the 16S rRNA gene and metagenomic sequences with human
 reads removed were uploaded to the SRA under BioProject PRJNA737472. All code
 and metadata needed to reproduce our results are available at
-<[https://github.com/bsmith89/ucfmt2](https://github.com/bsmith89/ucfmt2)>.
+<<https://doi.org/10.5281/zenodo.5851803>>.
 
 ## Supplementary Materials
 
