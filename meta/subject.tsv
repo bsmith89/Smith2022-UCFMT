@@ -1,0 +1,35 @@
+subject_id	recipient	sex	treatment_abx_pre	treatment_maintenance_method	donor_subject_id	withdrawal_due_to_failure	baseline_treatment_steroids	baseline_treatment_biologics	baseline_disease_location	followup_disease_location
+S0001	1	female	0	enema	D0097	0	1	1	left	left
+S0004	1	male	1	enema	D0097	0	0	0	left	
+S0007	1	male	0	capsules	D0485	0	0	0	left	left
+S0008	1	male	0	capsules	D0485	0	0	1	pan	none
+S0013	1	male	0	enema	D0097	0	0	0	pan	pan
+S0017	1	female	0	enema	D0097	0	0	0	left	left
+S0021	1	female	1	enema	D0097	0	1	0	pan	left
+S0024	1	male	1	enema	D0097	0	1	1	pan	pan
+S0027	1	female	1	capsules	D0097	0	0	0	proctitis	none
+S0029	1	female	0	enema	D0097		0	0	left	
+S0031	1	female	0	capsules	D0485		0	0	left	
+S0037	1	male	1	capsules	D0485	1	0	0	pan	
+S0041	1	female	0	capsules	D0044	0	0	0	pan	pan
+S0043	1	female	1	enema	D0097	1	1	1	pan	
+S0047	1	male	1	capsules	D0044	0	0	0	pan	none
+S0053	1	male	1	capsules	D0044	0	0	1	left	
+S0055	1	female	0	capsules	D0044	0	0	1	pan	pan
+S0056	1	female	0	enema	D0044	0	0	0	left	left
+S0058	1	female	0	enema	D0044		1	0	pan	
+S0059	1	male	0	capsules	D0044	0	1	0	left	left
+S0060	1	male	1	enema	D0044	0	0	0	pan	pan
+S0061	1	male	0	enema	D0044	0	0	1	left	left
+S0062	1	male	0	enema	D0485	0	0	0	left	left
+S0063	1	female	1	capsules	D0065	0	0	0	pan	none
+S0064	1	male	1	enema	D0485	0	0	0	pan	pan
+D0097	0				D0097					
+D0485	0				D0485					
+D0044	0				D0044					
+D0065	0				D0065					
+S0066	1	male	1	capsules	D0485		0	0	left	
+S0067	1	male	0	capsules	D0485		0	0	proctitis	
+S0068	1	female	1	capsules	D0485				pan	
+S0069	1	female	0	enema	D0097		0	0	pan	
+S0070	1	female	1	enema	D0097		0	0	left	

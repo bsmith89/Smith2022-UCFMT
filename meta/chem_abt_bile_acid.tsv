@@ -1,0 +1,52 @@
+compound_id	abbreviation	name	trustworthy	hydroxylated_12	hydroxylated_7	conjugated	sulfated
+1114	DCA	deoxycholate	1	0	0	0	0
+12261	t-DCA	taurodeoxycholate	1	0	0	1	0
+1483	LCA	lithocholate	1	1	0	0	0
+1563	CDCA	chenodeoxycholate	1	1	1	0	0
+1605	UDCA	ursodeoxycholate	1	0	1	0	0
+18476	g-CA	glycocholate	1	0	1	1	0
+18477	g-DCA	glycodeoxycholate	1	0	0	1	0
+18494	t-CDCA	taurochenodeoxycholate	1	1	1	1	0
+18497	t-CA	taurocholate	1	0	1	1	0
+22842	CA	cholate	1	0	1	0	0
+31889	t-LCA	taurolithocholate	1	1	0	1	0
+31891	LCA-d	dehydrolithocholate	1	1	0	0	0
+31904	DCA-7k	7-ketodeoxycholate	1	0	0	0	0
+31906	LCA-7k-12k	7,12-diketolithocholate	1	1	0	0	0
+32346	g-CDCA	glycochenodeoxycholate	1	1	1	1	0
+32599	g-C=A-s?	glycocholenate sulfate*	1	0	1	1	1
+32620	g-LCA-s?	glycolithocholate sulfate*	1	1	0	1	1
+32807	t-C=A-s?	taurocholenate sulfate*	1	0	1	1	1
+34093	HCA	hyocholate	1	0	1	0	0
+36850	t-LCA-3s	taurolithocholate 3-sulfate	1	1	0	1	1
+39378	t-DCA	tauroursodeoxycholate	1	0	0	1	0
+39379	g-UDCA	glycoursodeoxycholate	1	0	1	1	0
+42574	g-HCA	glycohyocholate	1	0	1	1	0
+43507	CAh-3h	3b-hydroxy-5-cholenoic acid	1	0	1	0	0
+43830	LCA-7k	7-ketolithocholate	1	1	0	0	0
+43835	CA-3d	3-dehydrocholate	1	0	1	0	0
+44644	CA-12d	12-dehydrocholate	1	0	1	0	0
+46336	LCA-6o	6-oxolithocholate	1	1	0	0	0
+52967	g-CA-s	glycocholate sulfate	1	0	1	1	1
+52970	UDCA-s	ursodeoxycholate sulfate (1)	1	0	1	0	1
+52973	CA-s	cholate sulfate	1	0	1	0	1
+52974	g-CDCA-3s	glycochenodeoxycholate 3-sulfate	1	1	1	1	1
+52975	g-DCA-3s	glycodeoxycholate 3-sulfate	1	0	0	1	1
+52983	g-CDCA-gu	glycochenodeoxycholate glucuronide (1)	1	1	1	1	0
+57573	UCA	ursocholate	1	0	1	0	0
+62066	g-bMCA	glyco-beta-muricholate	1	0	1	1	0
+62526	LCA-s	lithocholate sulfate (1)	1	1	0	0	1
+62527	LCAh-s	lithocholic acid sulfate (2)	1	1	0	0	1
+62571	CAh-gu	cholic acid glucuronide	1	0	1	0	0
+62784	t-UDCAh-s-1	tauroursodeoxycholic acid sulfate (1)	1	0	1	1	1
+62785	t-UDCAh-s-2	tauroursodeoxycholic acid sulfate (2)	1	0	1	1	1
+62889	t-DCAh-3s	taurodeoxycholic acid 3-sulfate	1	0	0	1	1
+62890	t-CDCAh-3s	taurochenodeoxycholic acid 3-sulfate	1	1	1	1	1
+63118	LCA-12k	12-ketolithocholate	1	1	0	0	0
+63119	DCA-3d	3-dehydrodeoxycholate	1	0	0	0	0
+63602	iUDCA-s	isoursodeoxycholate sulfate (1)	1	0	1	0	1
+63607	CDCAh-s	chenodeoxycholic acid sulfate (1)	1	1	1	0	1
+63610	DCAh-gu	deoxycholic acid glucuronide	1	0	0	0	0
+63688	DCAh-12s?	deoxycholic acid (12 or 24)-sulfate*	1	0	0	0	1
+63731	g-UCDAh-s	glycoursodeoxycholic acid sulfate (1)	1	1	1	1	1
+64097	CDCA-3d	3-dehydrochenodeoxycholate	1	1	1	0	0

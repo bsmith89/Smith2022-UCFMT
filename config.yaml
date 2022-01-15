@@ -1,0 +1,2 @@
+container: 'docker://bsmith89/compbio@sha256:0470df05fdce636ea3f6c1b9b39457380538474ae373135389610368a56cb848'
+_species: 'ref/gtpro/species_taxonomy_ext.tsv'
