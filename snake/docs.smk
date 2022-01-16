@@ -19,6 +19,18 @@ rule render_figure_to_png:
         inkscape {input} --export-width={params.width} --export-filename {output}
         """
 
+rule render_pdf_to_png_imagemagick:
+    output:
+        "fig/{stem}.dpi{dpi}.png",
+    input:
+        "fig/{stem}.pdf",
+    params:
+        dpi=lambda w: int(w.dpi),
+    shell:
+        """
+        convert -units PixelsPerInch -density {params.dpi} {input} {output}
+        """
+
 rule render_figure_to_pdf:
     output:
         "fig/{stem}_figure.pdf",

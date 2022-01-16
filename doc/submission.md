@@ -1,9 +1,8 @@
 ---
 title: |
     Strain-resolved analysis in a randomized trial of antibiotic pretreatment
-    and maintenance dose delivery mode for fecal microbiota transplant for
+    and maintenance dose delivery mode with fecal microbiota transplant for
     ulcerative colitis
-
 author:
     -  Byron J. Smith ^A,B^
     -  Yvette Piceno ^C^
@@ -64,8 +63,11 @@ TODO: Remove second 'Figure N', 'Table N' in captions.
 TODO: Bold Figure N, Table N in captions
 TODO: Update CONSORT checklist with correct page numbers
 TODO: Save a reload any DOCX files with figures included. Re-insert full
-quality figures (as the PDF insertions will lose quality)
+quality PNG figures (as the PDF insertions will lose quality) using
+`fig/*.dpi200.png` (there's a snakemake rule for these from PDF)
+TODO: Do this also for the SupplementaryNote.docx
 TODO: Make a track-changes document by comparing the new submission to the old.
+TODO: Edit this document to remove figure replacements, citation renumbering, etc.
 -->
 
 
@@ -650,11 +652,10 @@ strains (e.g. less than 10% in [@Podlesny2020]). None of these alternative
 approaches is optimal for the tracking of discrete strains in a study where
 donor and recipient communities are intentionally mixed through FMT.
 While we focused on the identification of individual strains transmitting
-from donors to recipients, alternative methods exist, such as SourceTracker
-[@Knights2011; @McGhee2020], which models samples as blends of taxa from
-multiple sources.
-We expect that the increased taxonomic resolution offered by SNP deconvolution
-can contribute greatly to the sensitivity of these methods as well.
+from donors to recipients, alternative methods exist
+[@Knights2011; @McGhee2020], and we expect that the increased taxonomic
+resolution offered by SNP deconvolution can contribute greatly to the
+sensitivity of these as well.
 Continued development of haplotype deconvolution methods will empower further
 studies of strain-specific functions and ecological dynamics in FMT.
 
